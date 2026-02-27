@@ -1,0 +1,14 @@
+# Title: HaGeZi's Light DNS Blocklist
+# Description: Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
+# Expires: 200 day
+# Last modified: 27 Feb 2026 10:20 UTC
+# Version: 2026.0227.1020.24
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 116440
+#
+google.de
+google.com
