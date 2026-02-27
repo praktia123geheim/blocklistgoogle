@@ -10,6 +10,8 @@
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 116440
 #
+google.de
+google.com
 0.beer
 www.0.beer
 0-02.net
